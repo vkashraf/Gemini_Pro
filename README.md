@@ -333,17 +333,10 @@ pod "Gemini"
 Add the following line to your `Cartfile`:
 
 ```ruby
-github "shoheiyokoyama/Gemini"
+github ""
 ```
 
-## <a name="author"> Author
 
-Shohei Yokoyama
-
-- [GitHub](https://github.com/shoheiyokoyama)
-- [Facebook](https://www.facebook.com/shohei.yokoyama.96)
-- [Twitter](https://twitter.com/shoheiyokoyam)
-- Gmail: shohei.yok0602@gmail.com
 
 ## License
 
