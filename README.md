@@ -333,7 +333,7 @@ pod "Gemini"
 Add the following line to your `Cartfile`:
 
 ```ruby
-github ""
+github "https://github.com/vkashraf/Gemini_Pro"
 ```
 
 
